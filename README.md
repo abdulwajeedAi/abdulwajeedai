@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJvaG93eWhyYnJnaXVneTJvbnhhc21jeTM3b3pqdnB3d3ptNmV3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif">)
 <h1 align="center">Hi 👋, I'm Abdul Wajeed</h1>
 <h3 align="center">Full stack developer on a journey to master the art of web development and delving into the fascinating world of artificial intelligence. Building bridges between code and AI's infinite possibilities.</h3>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJvaG93eWhyYnJnaXVneTJvbnhhc21jeTM3b3pqdnB3d3ptNmV3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif">
