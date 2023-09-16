@@ -1,7 +1,7 @@
 ![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1800)
 <h1 align="center">Hi 👋, I'm Abdul Wajeed</h1>
 <h3 align="center">Full stack developer on a journey to master the art of web development and delving into the fascinating world of artificial intelligence. Building bridges between code and AI's infinite possibilities.</h3>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJvaG93eWhyYnJnaXVneTJvbnhhc21jeTM3b3pqdnB3d3ptNmV3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJvaG93eWhyYnJnaXVneTJvbnhhc21jeTM3b3pqdnB3d3ptNmV3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif" width="200px" height="200px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwajeedai&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwajeedai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulwajeedai" alt="abdulwajeedai" /></a> </p>
