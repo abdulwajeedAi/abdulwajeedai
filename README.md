@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulwajeedai&show_icons=true&locale=en" alt="abdulwajeedai" /></p>
 
-Support 🙏
+ 
